@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="header"/>
+
 ## Hey there! I'm Cherrelle  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="350" height="250"/>
 
