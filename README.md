@@ -1,16 +1,18 @@
 ## Hey there! I'm Cherrelle  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-<img align="right" alt="gif" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="200" height="200"/>
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="350" height="250"/>
 
 <ul align="left">
  <li> 👀 I’m interested in Software Development </li>
  <li>⚡ My most recent project: <a href="https://github.com/Ben-Mostyn/DashboredFE" target="_blank">Dashbored</a> : A full-stack MERN application  </li>
 <li>🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp</li>
-<li>🌱 I’m currently learning everything 😂</li> 
+<li>🌱 I’m currently learning </li> 
 <li> 💞️ Hoping to collaborate on web development projects </li>
  <li>💼 I'm looking for <span font-style="bold">Full-Time/Apprenticeship opportunities</span></li>
 <li>💬 Ask me about anything you like!</li>
 </ul>
 
+ <br>
+ <br>
  
 ## <div> :hammer_and_wrench: Languages and Tools </div>
 <div>
