@@ -3,7 +3,7 @@
 
 <ul align="left">
  <li> 👀 I’m interested in Software Development </li>
- <li> My most recent project: <a href="https://github.com/Ben-Mostyn/DashboredFE" target="_blank">Dashbored</a> : A full-stack MERN application  </li>
+ <li>⚡ My most recent project: <a href="https://github.com/Ben-Mostyn/DashboredFE" target="_blank">Dashbored</a> : A full-stack MERN application  </li>
 <li>🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp</li>
 <li>🌱 I’m currently learning everything 😂</li> 
 <li> 💞️ Hoping to collaborate on web development projects </li>
