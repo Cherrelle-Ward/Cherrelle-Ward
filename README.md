@@ -18,7 +18,7 @@
  
  <br>
  <div align="center">
-Please feel free to clone projects, raise issues and submit PRs if you think something could be improved. Happy Coding!
+Please feel free to clone projects, raise issues and submit PRs if you think something could be improved. Happy Coding!😁
 </div>
 
   
