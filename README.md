@@ -3,8 +3,9 @@
 - 👀 I’m interested in Software Development
 - 🖥️ My most recent project: <a href="https://github.com/Ben-Mostyn/DashboredFE" target="_blank">Dashbored</a> : A full-stack MERN application 
 - 🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp
-- 🌱 I’m currently learning React and MySQL
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning everything 😂
+- 💞️ Hoping to collaborate on web development projects
+- 💼 I'm looking for Full-Time/Apprenticeship opportunities
 - 💬 Ask me about anything you like!
 
 ## <div> :hammer_and_wrench: Languages and Tools </div>
