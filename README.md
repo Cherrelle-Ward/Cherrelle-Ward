@@ -7,7 +7,7 @@
  <li> 👀 I’m interested in Software Development </li>
  <li>⚡ My most recent project: <a href="https://github.com/Cherrelle-Ward/Dashbored" target="_blank">Dashbored</a> : A full-stack MERN application  </li>
 <li>🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp</li>
-<li>🌱 I’m currently learning </li> 
+<li>🌱 I’m currently learning Jest.js to implement into all my projects</li> 
 <li> 💞️ Hoping to collaborate on web development projects </li>
  <li>💼 I'm looking for <span font-style="bold">Full-Time/Apprenticeship opportunities</span></li>
 <li>💬 Ask me about anything you like!</li>
