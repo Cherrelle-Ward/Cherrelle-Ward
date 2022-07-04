@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="header"/>
 
-## Hey there! I'm Cherrelle  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-<img align="right" alt="gif" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="150" height="150"/>
+## Hey there! I'm Cherrelle  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/>
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="250" height="250"/>
 
 <ul align="left">
  <li> 👀 I’m interested in Software Development </li>
