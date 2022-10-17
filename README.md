@@ -9,7 +9,6 @@
 <li>🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp</li>
 <li>🌱 I’m currently learning Jest.js to implement into all my projects</li> 
 <li> 💞️ Hoping to collaborate on web development projects </li>
- <li>💼 I'm looking for <span font-style="bold">Full-Time/Apprenticeship opportunities</span></li>
 <li>💬 Ask me about anything you like!</li>
 </ul>
 
